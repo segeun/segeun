@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white%22/%3E
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white%22/%3E
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white%22/%3E
+<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white%22/%3E"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white%22/%3E"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white%22/%3E"/>
 
 
 ![segeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=segeun&show_icons=true&theme=outrun)
