@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white%22/%3E"/>
 
 
-![segeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=segeun&show_icons=true&theme=outrun)
+![segeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=segeun&show_icons=true&theme=holi)
 
 <!--
 **segeun/segeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
