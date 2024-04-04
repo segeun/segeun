@@ -1,4 +1,4 @@
-### Segeun Choi, iOS developer 👋 
+### Segeun Choi, iOS developer. 👋 
 
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=%20%20%20Segeun%20%20&fontSize=50&animation=twinkling&Text-color=blue)
 
